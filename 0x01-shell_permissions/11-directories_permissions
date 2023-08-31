@@ -1,2 +1,2 @@
-#!/bina/bash
+#!/bin/bash
 chmod -R 711 
