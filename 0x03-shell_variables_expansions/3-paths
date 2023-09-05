@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep --count '\'
+echo $PATH | grep --count ':'
