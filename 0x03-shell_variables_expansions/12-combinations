@@ -1,2 +1,2 @@
-#!/bin/bashi
-echo {a..z}{a..z} | grep -v 'oo'
+#!/bin/bash
+echo -o {a..z}{a..z} | grep -v 'oo'
